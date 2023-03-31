@@ -1,0 +1,14 @@
+com/turvo/document/heremaps/model/Gps$GpsBuilder.class
+com/turvo/document/heremaps/model/GeoPointAddressMap.class
+com/turvo/document/heremaps/model/AddressGeoPoints.class
+com/turvo/document/heremaps/model/AdditionalData$AdditionalDataBuilder.class
+com/turvo/document/heremaps/model/GeoNameGps$GeoNameGpsBuilder.class
+com/turvo/document/heremaps/model/Gps.class
+com/turvo/document/heremaps/model/GeoPointAddressMap$GeoPointAddressMapBuilder.class
+com/turvo/document/heremaps/utils/QueryingHereMaps.class
+com/turvo/document/heremaps/model/Cordinates$CordinatesBuilder.class
+com/turvo/document/heremaps/model/Cordinates.class
+com/turvo/document/heremaps/model/GeoNameGps.class
+com/turvo/document/heremaps/model/AddressGeoPoints$AddressGeoPointsBuilder.class
+com/turvo/document/heremaps/HereMapsApplication.class
+com/turvo/document/heremaps/model/AdditionalData.class
